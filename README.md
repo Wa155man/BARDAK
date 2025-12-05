@@ -1,2 +1,2 @@
 # BARDAK
-BARDAK - Hebrew Language adventures
+BARDAK - Hebrew / English Language adventures
